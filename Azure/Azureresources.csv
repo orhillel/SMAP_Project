@@ -1,0 +1,12 @@
+NAME,TYPE,RESOURCE GROUP,LOCATION,SUBSCRIPTION,
+"1f692cdf-08e2-4b55-b0f4-b219991133b9-dashboard (smapapp Dashboard)","Shared dashboard","smapapp","Central US","IOT ADV AIR POL"
+"3e0b53e9-c61b-4bd0-ab6a-51ff641b2b62-dashboard (SmapWebApp Dashboard)","Shared dashboard","appsvc_linux_centralus","Central US","IOT ADV AIR POL"
+"appsvc_linux_centralus","App Service plan","appsvc_linux_centralus","Central US","IOT ADV AIR POL"
+"CentralUSPlan","App Service plan","smapapp","Central US","IOT ADV AIR POL"
+"smap-db-server","SQL server","smap","Australia East","IOT ADV AIR POL"
+"smapapp","App Service","smapapp","Central US","IOT ADV AIR POL"
+"smapapp","Application Insights","smapapp","Central US","IOT ADV AIR POL"
+"smapDB (smap-db-server/smapDB)","SQL database","smap","Australia East","IOT ADV AIR POL"
+"smapsstorage","Storage account","smapapp","East US","IOT ADV AIR POL"
+"SmapWebApp","Application Insights","appsvc_linux_centralus","Central US","IOT ADV AIR POL"
+"SmapWebApp","App Service","appsvc_linux_centralus","Central US","IOT ADV AIR POL"

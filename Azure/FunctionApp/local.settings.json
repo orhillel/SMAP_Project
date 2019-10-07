@@ -1,0 +1,19 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "REMOTEDEBUGGINGVERSION": "15.0.28307.222",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "beea5b66-033d-4f05-b315-e5fa79af82b8",
+    "WEBSITE_NODE_DEFAULT_VERSION": "10.14.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=smapsstorage;AccountKey=QXhrHcvNV2TXOWbVCh07xwcIijcySNPG1Y6DU0zw3FCbjUWeV8dLJ7lBGZYXA4ykx31pkZR0Zd2crVE2XXSxXg==",
+    "WEBSITE_CONTENTSHARE": "smapappa0f2",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "smapapp",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=smapsstorage;AccountKey=QXhrHcvNV2TXOWbVCh07xwcIijcySNPG1Y6DU0zw3FCbjUWeV8dLJ7lBGZYXA4ykx31pkZR0Zd2crVE2XXSxXg=="
+  }
+}

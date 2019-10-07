@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SMAP</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="map">Map</string>
+    <string name="report">report</string>
+    <string name="title_activity_login_app">loginApp</string>
+    <string name="valuerightnow">#Value#</string>
+    <string name="lastUpdate">last update:</string>
+    <string name="textAQI">API:  </string>
+    <string name="m_createAccount">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="m_signup">Signup</string>
+    <string name="loginMyList">Sign In</string>
+    <string name="signIn">SignIn</string>
+    <string name="m_createAccountBtn">signup</string>
+    <string name="title_activity_start_acticity">StartActicity</string>
+</resources>
