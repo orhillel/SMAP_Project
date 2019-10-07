@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9d9db251-cf8d-40cb-a574-81cb0a0c5777/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/SmapWebApp",
+    "appService.deploySubpath": ""
+}
